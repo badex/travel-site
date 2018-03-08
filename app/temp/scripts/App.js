@@ -79,7 +79,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nvar _MobileMenu = __webpack_require__(/*! ./modules/MobileMenu */ \"./app/assets/scripts/modules/MobileMenu.js\");\n\nvar _MobileMenu2 = _interopRequireDefault(_MobileMenu);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar mobileMenu = new _MobileMenu2.default(); // var $ = require('jquery');\n// var Person = require('./modules/Person');\n// import is the es6 way of importing a module\n/* import Person from './modules/Person';\r\n\r\nclass Adult extends Person {\r\n  payTaxes() {\r\n    console.log(this.name + \" now owes $0 in taxes.\");\r\n  }\r\n}\r\nvar john = new Person(\"John Doe\", \"Blue\");\r\njohn.greet();\r\n\r\nvar jane = new Adult (\"Jane Smith\", \"Orange\");\r\njane.greet();\r\njane.payTaxes(); */\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
+eval("\n\nvar _MobileMenu = __webpack_require__(/*! ./modules/MobileMenu */ \"./app/assets/scripts/modules/MobileMenu.js\");\n\nvar _MobileMenu2 = _interopRequireDefault(_MobileMenu);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar mobileMenu = new _MobileMenu2.default(); // var $ = require('jquery');\n// var Person = require('./modules/Person');\n// import is the es6 way of importing a module\n/* import Person from './modules/Person';\n\nclass Adult extends Person {\n  payTaxes() {\n    console.log(this.name + \" now owes $0 in taxes.\");\n  }\n}\nvar john = new Person(\"John Doe\", \"Blue\");\njohn.greet();\n\nvar jane = new Adult (\"Jane Smith\", \"Orange\");\njane.greet();\njane.payTaxes(); */\n\n//# sourceURL=webpack:///./app/assets/scripts/App.js?");
 
 /***/ }),
 
